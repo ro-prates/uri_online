@@ -1,0 +1,7 @@
+SELECT 'Jose Sampaio' AS nome, 8700.00 AS SALARIO
+   		UNION ALL
+    SELECT 'Andre' AS nome, 10350.00 AS SALARIO
+    	UNION ALL
+    SELECT 'Barbara' AS nome, 9200.00 AS SALARIO
+    	UNION ALL
+    SELECT 'Jose da Silva' AS nome, 10650.00 AS SALARIO
